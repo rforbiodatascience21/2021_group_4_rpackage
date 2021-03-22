@@ -1,11 +1,10 @@
-Package: lab08aSimpleRpackage
+Package: seqsy
 Type: Package
-Title: What the Package Does (Title Case)
+Title: translating nucleotide sequences to amino acids
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Group 4
+Maintainer: <mgor@dtu.dk> <skosk@dtu.dk> <supaah@dtu.dk> <yogbas@dtu.dk> <macviu@dtu.dk>
+Description: computational translator of nucleotide sequences to amino acids
+License: open source
 Encoding: UTF-8
 LazyData: true
