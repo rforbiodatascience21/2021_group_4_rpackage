@@ -11,7 +11,6 @@ random_dna - DNA sequence generator
 random_dna(x)
 }
 
-
 \author{
 Susana
 }
