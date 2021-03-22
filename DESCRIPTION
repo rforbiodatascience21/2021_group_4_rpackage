@@ -1,4 +1,4 @@
-Package: seqsy
+Package: seqsy_v1
 Type: Package
 Title: translating nucleotide sequences to amino acids
 Version: 0.1.0
