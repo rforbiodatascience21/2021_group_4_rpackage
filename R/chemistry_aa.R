@@ -1,4 +1,4 @@
-#
+# function for amino acids chemistry
 chemistry_aa <- function(amino_acid){
   chemisty_table <- c("A" = "Hydrophobic", "C" = "Polar", "D" = "Acidic", 
                       "E" = "Acidic", "F" = "Hydrophobic", "G" = "Polar", 
@@ -10,5 +10,4 @@ chemistry_aa <- function(amino_acid){
   chemistry <- paste(chemisty_table[amino_acid])
   return(chemistry)
 }
-
 
